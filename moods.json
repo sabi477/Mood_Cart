@@ -1,0 +1,575 @@
+[
+    {
+      "mood": "Yorgun",
+      "image": "images/yorgun.png",
+      "description": "Enerjisi tükenmiş, bedeni ve zihni dinlenmek isteyen bir hâl.",
+      "keywords": ["yorgun", "bitik", "dinlenmek", "uyumak"],
+      "song": {
+  "title": "Lost in the Moment - NF ft. Andreas Moss",
+  "url": "https://open.spotify.com/track/0XZqelwmG6DdSrw1Pf2zPt"
+}
+    },
+    {
+      "mood": "Huzurlu",
+      "image": "images/huzurlu.png",
+      "description": "İçinde fırtına yok, her şey olması gerektiği gibi sakin.",
+      "keywords": ["huzurlu", "rahat", "keyifli", "sessiz", "dingin"],
+      "song": {
+        "title": "Weightless - Marconi Union",
+        "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+      }
+    },
+    {
+      "mood": "Melankolik",
+      "image": "images/melankolik.png",
+      "description": "Tatlı bir hüzün içinde geçmişe dalmış bir ruh hâli.",
+      "keywords": ["melankoli", "hüzün", "üzgün", "duygusal", "ağlamak", "içlenmek"],
+      "song": {
+  "title": "The Night We Met - Lord Huron",
+  "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+}
+    },
+    {
+      "mood": "Neşeli",
+      "image": "images/neseli.png",
+      "description": "İçten gelen bir mutluluk ve gülümsemeyle dolu anlar.",
+      "keywords": ["neşeli", "mutlu", "gülümse", "şen", "kahkaha", "keyifli"],
+      "song": {
+  "title": "Walking on Sunshine - Katrina & The Waves",
+  "url": "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
+}
+    },
+    {
+      "mood": "Kırgın",
+        "image": "images/kirgin.png",
+      "description": "Sözlerden ya da davranışlardan incinmiş bir ruh.",
+      "keywords": ["kırgın", "incinmiş", "üzgün", "alınmış", "darılmış"],
+      "song": {
+  "title": "Let Her Go - Passenger",
+  "url": "https://open.spotify.com/track/2aJz2TvLAlshkM0gWNp4Pf"
+}
+    },
+    {
+        "mood": "Işıl ışıl",
+        "image": "images/isil_isil.png",
+        "description": "Enerjisi gözlerinden parlayan, içi kıpır kıpır bir ruh hâli.",
+        "keywords": ["parlak", "ışıl ışıl", "canlı", "ışık", "parlıyorum"],
+        "song": {
+  "title": "Levitating - Dua Lipa",
+  "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+}
+      },
+      {
+        "mood": "Durgun",
+        "image": "images/durgun.png",
+        "description": "Ne mutlu ne üzgün, sadece akışta, sessiz bir hâl.",
+        "keywords": ["durgun", "sessiz", "boşluk", "tepkisiz", "sakin"],
+        "song": {
+  "title": "Holocene - Bon Iver",
+  "url": "https://open.spotify.com/track/2VYQTNDsvvKNiQz2fbbCU0"
+}
+      }, 
+      {
+        "mood": "Yalnız",
+        "image": "images/yalniz.png",
+        "description": "Kendiyle baş başa, uzak ama derin bir his.",
+        "keywords": ["yalnız", "tek başıma", "yanımda kimse yok", "sessizlik", "yalnızlık"],
+        "song": {
+  "title": "Space Song - Beach House",
+  "url": "https://open.spotify.com/track/3MbHzSZ8V1jWl8SR5fJxFW"
+}
+      },
+      {
+        "mood": "Enerjik",
+        "image": "images/enerjik.png",
+        "description": "Hareket etmeye hazır, içi kıpır kıpır bir canlılık.",
+        "keywords": ["enerjik", "hareketli", "canlı", "hareket", "koşmak"],
+        "song": {
+  "title": "Can't Stop the Feeling! - Justin Timberlake",
+  "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+}
+      },
+      {
+        "mood": "Dağınık",
+        "image": "images/daginik.png",
+        "description": "Zihni bir yerlere dağılmış, toparlanmayı bekleyen bir kafa.",
+        "keywords": ["dağınık", "karışık", "kafam dolu", "dikkatim dağınık", "toparlanamıyorum"],
+        "song": {
+  "title": "Breezeblocks - alt-J",
+  "url": "https://open.spotify.com/track/3DQVgcqaP1TnAqfdzTO5dT"
+}
+      },
+      {
+        "mood": "İlhamlı",
+        "image": "images/ilhamli.png",
+        "description": "Zihni fikirlerle dolu, yaratmaya hazır bir an.",
+        "keywords": ["ilham", "yaratıcı", "fikir dolu", "yaratmak", "aklıma geldi", "sanat", "ilhamlı", "ilham geldi"],
+        "song": {
+  "title": "Ophelia - The Lumineers",
+  "url": "https://open.spotify.com/track/0YdKpZRIpWCN1dA3xUlyeQ"
+}
+      },
+      {
+        "mood": "Rahatsız",
+        "image": "images/rahatsiz.png",
+        "description": "Yerinde duramayan, içi kıpırdayan huzursuzluk.",
+        "keywords": ["rahatsız", "huzursuz", "sıkıntı", "kıpır kıpır", "gergin"],
+        "song": {
+  "title": "bury a friend - Billie Eilish",
+  "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+}
+      },
+      {
+        "mood": "İçsel",
+        "image": "images/icsel.png",
+        "description": "Dış dünya sessiz, düşüncelerle baş başa kalmış bir hâl.",
+        "keywords": ["içsel", "düşünceli", "içe dönük", "düşünüyorum", "sessiz", "ruh hali", "yalnızlık", "derin"],
+        "song": {
+  "title": "Holocene - Bon Iver",
+  "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+}
+      },
+      {
+        "mood": "Kaotik",
+        "image": "images/kaotik.png",
+        "description": "Her şey aynı anda olmuş gibi karışık bir ruh durumu.",
+        "keywords": ["kaotik", "kafam karışık", "karmaşa", "karışık", "darmadağın", "çok şey", "her şey bir arada", "bunalım"],
+        "song": {
+  "title": "Bad Habit - Steve Lacy",
+  "url": "https://open.spotify.com/track/5SVd4dEY5S1kFeTtA1zFzN"
+}
+      },
+      {
+        "mood": "Umutlu",
+        "image": "images/umutlu.png",
+        "description": "Geleceğe dair tatlı bir beklenti ve içsel güven.",
+        "keywords": ["rahatsız", "huzursuz", "sıkıntı", "kıpır kıpır", "gergin"],
+        "song": {
+  "title": "Here Comes the Sun - The Beatles",
+  "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
+}
+      },
+      {
+        "mood": "Romantik",
+        "image": "images/romantik.png",
+        "description": "Kalp hızlı atıyor, dünya daha pembe görünüyor.",
+        "keywords": ["romantik", "aşk", "kalp", "duygusal", "sevgi", "sevgili", "aşığım", "aşık", "çiçek", "gül"],
+        "song": {
+  "title": "Love Will Tear Us Apart - Joy Division",
+  "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
+} 
+      },
+      {
+        "mood": "Sakin",
+        "image": "images/isil_isil.png",
+        "description": "Dalgasız deniz gibi bir iç huzur hâli.",
+        "keywords": ["sakin", "huzurlu", "rahat", "dingin", "sessiz"],
+        "song": {
+  "title": "Weightless - Marconi Union",
+  "url": "https://open.spotify.com/track/2eF8pBqjvGZzoGoxWq5VnK"
+}
+      },
+      {
+        "mood": "Heyecanlı",
+        "image": "images/isil_isil.png",
+        "description": "Bir şey olacakmış gibi kalbi çarpan, enerjik bir his.",
+        "keywords": ["heyecan", "sabırsız", "beklenti", "hareketli", "coşkulu"],
+        "song": {
+  "title": "Don't Start Now - Dua Lipa",
+  "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+}
+      },
+      {
+        "mood": "Sersem",
+        "image": "images/isil_isil.png",
+        "description": "Dünya biraz dönüyor, kafası bulanık ama zararsız.",
+        "keywords": ["sersem", "baş dönmesi", "kararsız", "bulanık", "yorgun"],
+        "song": {
+  "title": "Sweater Weather - The Neighbourhood",
+  "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
+}
+      },
+      {
+        "mood": "Gururlu",
+        "image": "images/isil_isil.png",
+        "description": "Kendine güvenen ve yaptığıyla mutlu bir duruş.",
+        "keywords": ["gururlu", "başarılı", "kendine güven", "övünç", "tatmin"],
+        "song": {
+  "title": "Unstoppable - Sia",
+  "url": "https://open.spotify.com/track/0jXXy9WnQnK0f8FCkPLtjw"
+}
+      },
+
+      {
+        "mood": "Kafası karışık",
+        "image": "images/isil_isil.png",
+        "description": "Ne hissettiğini ya da düşündüğünü tam çözemeyen bir hâl.",
+        "keywords": ["kararsız", "kafası karışık", "belirsizlik", "şüphe", "ikilem"],
+        "song": {
+  "title": "Mind Over Matter - Young the Giant",
+  "url": "https://open.spotify.com/track/6nxDQi0FeEwccEPJeNySoS"
+}
+      },
+      {
+        "mood": "Şaşkın",
+        "image": "images/isil_isil.png",
+        "description": "Yeni bir şeyle karşılaşmış, ne düşüneceğini bilemeyen bir kafa.",
+        "keywords": ["şaşkın", "afallamış", "şaşırmış", "ne yapacağını bilemeyen"],
+        "song": {
+  "title": "Lost in the Moment - NF feat. Andreas Moss",
+  "url": "https://open.spotify.com/track/0rhO3FfjNVQ2JxNaaC0Z3Z"
+}
+      },
+      {
+        "mood": "Rüya gibi",
+        "image": "images/isil_isil.png",
+        "description": "Gerçekle hayal arasında, hafif ve büyülü bir hissiyat.",
+        "keywords": ["rüya", "hayal", "masalsı", "büyülü", "uçucu"],
+        "song": {
+  "title": "Moon River - Audrey Hepburn",
+  "url": "https://open.spotify.com/track/3eXo62KpGTT6pAFKIc1M6k"
+}
+      },
+      {
+        "mood": "Sıcakkanlı",
+        "image": "images/isil_isil.png",
+        "description": "Yaklaşınca insanın içini ısıtan samimi bir enerji.",
+        "keywords": ["samimi", "sıcakkanlı", "canayakın", "güleryüzlü", "içten"],
+        "song": {
+  "title": "Put Your Records On – Corinne Bailey Rae",
+  "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
+}
+      },
+      {
+        "mood": "Meraklı",
+        "image": "images/isil_isil.png",
+        "description": "Dünyayı keşfetmeye açık, soru işaretleriyle dolu bir ruh.",
+        "keywords": ["merak", "keşfetmek", "öğrenme isteği", "soru", "ilgilenen"],
+       "song": {
+      "title": "Electric Feel - MGMT",
+      "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
+    }
+      },
+      {
+        "mood": "İçine kapanık",
+        "image": "images/isil_isil.png",
+        "description": "Kendi sessizliğinde rahat eden, dışarıya kapalı bir ruh durumu.",
+        "keywords": ["çekingen", "sessiz", "yalnız", "utangaç", "içe dönük"],
+        "song": {
+  "title": "Holocene – Bon Iver",
+  "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+}
+      },
+      {
+        "mood": "Nostaljik",
+        "image": "images/isil_isil.png",
+        "description": "Eski zamanların özlemiyle dolmuş, geçmişe dönük bir hâl.",
+        "keywords": ["eski", "anı", "nostalji", "geçmiş", "özlem", "hatıra"],
+        "song": {
+            "title": "Take On Me – a-ha",
+            "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+          }
+      },
+      {
+        "mood": "Tembel",
+        "image": "images/isil_isil.png",
+        "description": "Hiçbir şey yapmamak için geçerli nedenlere sahipmiş gibi davranan tatlı bir yavaşlık.",
+        "keywords": ["yorgun", "uyuşuk", "hareketsiz", "motivasyonsuz", "uyumak"],
+        "song": {
+            "title": "Banana Pancakes – Jack Johnson",
+            "url": "https://open.spotify.com/track/3yptrXle8mFxaMQk2eqLNR"
+          }
+      },
+      {
+        "mood": "Samimi",
+        "image": "images/isil_isil.png",
+        "description": "Olduğu gibi görünen, içten ve filtresiz bir hâl.",
+        "keywords": ["içten", "gerçek", "dürüst", "açık", "samimi"],
+        "song": {
+            "title": "Count On Me – Bruno Mars",
+            "url": "https://open.spotify.com/track/3Rd8fJz4FCl7uNPKZcF8Vq"
+          }
+
+      },
+      {
+        "mood": "Tatmin olmuş",
+        "image": "images/isil_isil.png",
+        "description": "Ne eksik ne fazla, tam şu an olduğu gibi her şeyin iyi hissettirdiği bir denge.",
+        "keywords": ["yetiyor", "doymuş", "tatmin", "mutlu", "huzurlu"],
+        "song": {
+            "title": "Feeling Good – Nina Simone",
+            "url": "https://open.spotify.com/track/0U7Fv9FzGZpmoN3DOSaP4K"
+          }
+      },
+      {
+        "mood": "Uyuşmuş",
+        "image": "images/isil_isil.png",
+        "description": "Ne hissettiğini bilemediği, duyguların donuklaştığı bir hâl.",
+        "keywords": ["tepkisiz", "duygusuz", "hissiz", "boş", "yorgun"],
+        "song": {
+            "title": "Motion Picture Soundtrack – Radiohead",
+            "url": "https://open.spotify.com/track/5UN83x9d5gXs3A84uWwQkT"
+          }
+      },
+      {
+        "mood": "Duygusal",
+        "image": "images/isil_isil.png",
+        "description": "Küçük şeylerden bile etkilenebilen yoğun bir ruh durumu.",
+        "keywords": ["duygu", "ağlamak", "yoğun", "etkilenmek", "hassas"],
+        "song": {
+            "title": "All I Want – Kodaline",
+            "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+          }
+      },
+      {
+        "mood": "Eğlenceli",
+        "image": "images/isil_isil.png",
+        "description": "Ortamı hareketlendiren, enerjisiyle neşe yayan biri gibi.",
+        "keywords": ["şen", "parti", "oyun", "gülmek", "eğlenmek", "aktif"],
+        "song": {
+            "title": "Uptown Funk – Mark Ronson ft. Bruno Mars",
+            "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+          }
+      },
+      {
+        "mood": "Tedirgin",
+        "image": "images/isil_isil.png",
+        "description": "İçeride bir şey olacakmış hissiyle huzursuzluk taşıyan bir an.",
+         "keywords": ["tedirgin", "gergin", "kaygılı", "endişeli", "içim sıkılıyor", "huzursuz", "rahat değilim", "bir şey olacak gibi"],
+         "song": {
+            "title": "Creep – Radiohead",
+            "url": "https://open.spotify.com/track/3RkQ3UwOyPqpJiFgMdNpgH"
+          }
+      },
+      {
+        "mood": "Canlı",
+        "image": "images/isil_isil.png",
+        "description": "Hayatla bağlantısı güçlü, ritme ayak uyduran bir hâl.",
+        "keywords": ["canlı", "enerjik", "hareketli", "yaşama sevinci", "hayat dolu", "coşkulu", "ritmik", "zinde"],
+        "song": {
+            "title": "On Top of the World – Imagine Dragons",
+            "url": "https://open.spotify.com/track/6vuW5vDrIIF2wCP3K8Q10Y"
+          }
+      },
+      {
+        "mood": "Boşlukta",
+        "image": "images/isil_isil.png",
+        "description": "Yönsüz, yavaşça süzülen, duyguların askıda kaldığı bir hâl.",
+        "keywords": ["boşlukta", "yönsüz", "havada", "dalgın", "uçuyorum", "bağlantısız", "hiçbir şey hissetmiyorum", "kopuk"],
+        "song": {
+            "title": "Space Song – Beach House",
+            "url": "https://open.spotify.com/track/4cEBbFD5c7gHbZsY2Cz1hY"
+          }
+      },
+      {
+        "mood": "Şefkatli",
+        "image": "images/isil_isil.png",
+        "description": "Sarılmak isteyen, anlayışlı ve yumuşak kalpli bir enerji.",
+        "keywords": ["şefkatli", "sarılmak istiyorum", "yumuşak kalpli", "anlayışlı", "nazik", "koruyucu", "sevecen", "duygusal"],
+        "song": {
+      "title": "Somewhere Only We Know - Keane",
+      "url": "https://open.spotify.com/track/3f1l4c4rTndMZK9U59WGLU"
+    }
+      },
+      {
+        "mood": "Kontrollü",
+        "image": "images/isil_isil.png",
+        "description": "Her şeyi hesaplayan, duygularını bile dikkatlice yöneten bir hâl.",
+        "keywords": ["kontrollü", "soğukkanlı", "kendine hakim", "disiplinli", "planlı", "hesaplı", "duyguları bastıran", "denge arayan"],
+        "song": {
+      "title": "Everything In Its Right Place - Radiohead",
+      "url": "https://open.spotify.com/track/3sv3xvkGn4AVfZuK0T7cHZ"
+    }
+      },
+      {
+        "mood": "Daima açık",
+        "image": "images/isil_isil.png",
+        "description": "Hazır, açık fikirli ve yeni deneyimlere karşı istekli.",
+        "keywords": ["daima açık", "hazırım", "açık fikirli", "yeniliklere açık", "deneyim arıyorum", "merak ediyorum", "içim açık", "yeni şeylere açık"],
+        "song": {
+      "title": "Adventure of a Lifetime - Coldplay",
+      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
+    }
+      },
+      {
+        "mood": "Uyumlu",
+        "image": "images/isil_isil.png",
+        "description": "Her ortama kolayca ayak uyduran, çatışmadan uzak bir duruş.",
+        "keywords": ["uyumlu", "anlaşan", "uyarlanabilir", "sorun çıkarmayan", "dengeleyen", "ortama uyan", "ılımlı", "çatışmadan uzak"],
+        "song": {
+      "title": "Budapest - George Ezra",
+      "url": "https://open.spotify.com/track/4k7hi7g0DlPj93n7PI6FzT"
+    }
+      },
+      {
+        "mood": "Tuhaf rahat",
+        "image": "images/isil_isil.png",
+        "description": "Her şey garip ama huzurlu. Anlam aramadan keyif alma hâli.",
+        "keywords": ["tuhaf rahat", "garip ama huzurlu", "anlam aramıyorum", "keyifliyim", "rahatım", "sakinim", "boşvermiş", "akıştayım"],
+        "song": {
+      "title": "Borderline - Tame Impala",
+      "url": "https://open.spotify.com/track/6v0Rhv7LCnT5UWxOEyJdle"
+    }
+      },
+      {
+        "mood": "Kayıp zaman",
+        "image": "images/isil_isil.png",
+        "description": "Zamanın nasıl geçtiğini anlamadığın, boşluğa düştüğün an.",
+        "keywords": ["kayıp zaman", "nasıl geçti anlamadım", "boşa gitti", "zaman kaybı", "geçmişte kaldım", "akıp gitti", "boş zaman", "anlamsız"],
+        "song": {
+      "title": "Time - Hans Zimmer",
+      "url": "https://open.spotify.com/track/0YC192cP3KPCRWx8zr8MfZ"
+    }
+      },
+      {
+        "mood": "Hayalet gibi",
+        "image": "images/isil_isil.png",
+        "description": "Oradasın ama yoksun. Sessizce izleyen, duvar gibi bir ruh.",
+        "keywords": ["hayalet gibi", "yok gibiyim", "sessizim", "görünmüyorum", "kendimi saklıyorum", "duvar gibi", "uzaktan izliyorum", "var ama yok"],
+        "song": {
+      "title": "Ghost Town - Kanye West",
+      "url": "https://open.spotify.com/track/2Ek1q2haOnxVqhvVKqMvJe"
+    } 
+      },
+      {
+        "mood": "Garip derecede iyiyim",
+        "description": "Bir şeylerin yolunda gitmesine şaşırarak mutlu olma durumu.",
+        "keywords": [
+  "garip derecede iyiyim",
+  "şaşkın mutluluk",
+  "her şey yolunda mı",
+  "beklenmedik iyi his",
+  "anlam veremiyorum ama iyiyim",
+  "tuhaf bir sevinç",
+  "neden böyle hissediyorum bilmiyorum",
+  "iyi hissediyorum ama garip"
+],
+"song": {
+      "title": "Weird Fishes - Radiohead",
+      "url": "https://open.spotify.com/track/5nLscF7f6r6XnfjB9eCq4F"
+    }
+      },
+      {
+        "mood": "Havalı hissediyorum",
+        "image": "images/isil_isil.png",
+        "description": "Kendinden memnun, aynaya bir kez daha bakan bir güven patlaması.",
+        "keywords": [
+  "havalı hissediyorum",
+  "cool",
+  "karizmatik",
+  "kendime güveniyorum",
+  "özgüven patlaması",
+  "ayna karşısı",
+  "tarzım oturdu",
+  "şıkım",
+  "kendimle gurur duyuyorum",
+  "iyi görünüyorum"
+],
+"song": {
+      "title": "Style - Taylor Swift",
+      "url": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
+    }
+      },
+      {
+        "mood": "Bir şey olacakmış gibi",
+        "image": "images/isil_isil.png",
+        "description": "Havanın öncesindeki o tuhaf gerginliği anımsatan, açıklanamayan bir his.",
+        "keywords": [
+  "bir şey olacakmış gibi",
+  "içimde bir his var",
+  "beklenti",
+  "gerginim",
+  "önsezi",
+  "heyecanlı bir bekleyiş",
+  "bir şey olacak",
+  "huzursuzluk",
+  "belli belirsiz his",
+  "öncesi fırtına"
+],
+"song": {
+      "title": "Midnight City - M83",
+      "url": "https://open.spotify.com/track/0jNt1n2Tnq74ZDUaRRA5Rj"
+    }
+      },
+      {
+        "mood": "Çok düşündüm, sustum",
+        "image": "images/isil_isil.png",
+        "description": "Düşünceler dağ gibi, ama dışa tek kelime yok. Yorgun bir dinginlik.",
+        "keywords": [
+  "çok düşündüm",
+  "düşüncelere daldım",
+  "suskunluk",
+  "sessizlik",
+  "içimde fırtına",
+  "iç konuşma",
+  "kendi kendine kalmak",
+  "konuşmak istemiyorum",
+  "kafam dolu",
+  "suskun"
+], "song": {
+    "title": "Holocene – Bon Iver",
+    "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+  }
+      },
+      {
+        "mood": "Boş boş bakıyorum",
+        "image": "images/isil_isil.png",
+        "description": "Zihin kapalı, gözler açık. Düşünmeden geçen zaman.",
+        "keywords": [
+  "boş boş bakmak",
+  "bakakalmak",
+  "dalıp gitmek",
+  "dalgın",
+  "zihinsel yorgunluk",
+  "hiçbir şey düşünmemek",
+  "bakıyorum ama görmüyorum",
+  "yorgun bakış",
+  "düşünmeden bakmak",
+  "zihnim kapalı"
+],"song": {
+      "title": "Motion Picture Soundtrack - Radiohead",
+      "url": "https://open.spotify.com/track/6PZqAVZim8cq2UNegQ7jzU"
+    }
+      },
+      {
+        "mood": "Biraz her şeyim",
+        "image": "images/isil_isil.png",
+        "description": "Ne tek bir duyguya sığıyor, ne tamamen kaotik. Karışık ama güzel.",
+        "keywords": [
+  "biraz her şey",
+  "karışık hissediyorum",
+  "kafam karışık",
+  "dolu dolu",
+  "neşeli ama yorgun",
+  "hem mutlu hem üzgün",
+  "karmaşık duygular",
+  "hepsi birden",
+  "aynı anda her şey",
+  "duygu karmaşası"
+], "song": {
+    "title": "Holocene – Bon Iver",
+    "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+  }
+      },
+      {
+        "mood": "Bitmiş ama güzel",
+        "image": "images/isil_isil.png",
+        "description": "Yorgunluktan tükenmiş ama tatminle dolu bir son.",
+        "keywords": [
+  "bitmiş ama güzel",
+  "tatlı yorgunluk",
+  "tükendim ama huzurlu",
+  "güzel bir son",
+  "yorgun ama memnun",
+  "her şey bitti",
+  "gün bitti",
+  "bitkin ama mutlu",
+  "iyi bitti",
+  "iyiki bitti",
+  "rahatladım"
+], "song": {
+    "title": "Holocene – Bon Iver",
+    "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+  }
+      }
+  ]
